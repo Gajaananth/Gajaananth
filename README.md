@@ -77,7 +77,7 @@ I'm a **freelance AI and full-stack developer** and a **BIT (R) undergraduate at
   <img src="./assets/languages.svg" width="49%" alt="Top languages" />
   <img src="./assets/streak.svg" width="49%" alt="Contribution streak" />
   <br/><br/>
-  <img src="https://raw.githubusercontent.com/Gajaananth/Gajaananth/output/snake-dark.svg" width="100%" alt="Contribution snake" />
+  <img src="./assets/snake-dark.svg" width="100%" alt="Contribution snake" />
 </div>
 
 <br/>
