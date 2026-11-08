@@ -9,7 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-gajaananth.vercel.app-0b1220?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e293b)](https://gajaananth.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0b1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=1e293b)](https://www.linkedin.com/in/gajaananth/)
 [![GitHub](https://img.shields.io/badge/GitHub-Gajaananth-0b1220?style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b)](https://github.com/Gajaananth)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-0b1220?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=1e293b)](mailto:YOUR_EMAIL@example.com)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-0b1220?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=1e293b)](mailto:gajaananth08@gmail.com)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&lines=AI-driven+software+for+real+business+needs;Web+apps+%C2%B7+Mobile+apps+%C2%B7+Backends+%C2%B7+AI+workflows;Finance+%C2%B7+Hospitality+%C2%B7+Education+%C2%B7+Enterprise" alt="Typing animation" />
 
