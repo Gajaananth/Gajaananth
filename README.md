@@ -1,90 +1,95 @@
 <div align="center">
 
-<!-- Dynamic Typing Animation -->
 <a href="https://gajaananth.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Gajaananth+%F0%9F%91%8B;AI+%26+Full+Stack+Developer;Freelance+Innovator+%26+Entrepreneur;Building+Real+Software+for+Real+Business+Needs." alt="Typing SVG" />
+  <img src="./assets/banner.svg" alt="Gajaananth - AI Engineer, Full Stack Developer, Software Builder" width="100%" />
 </a>
 
 <br/>
 
-<p>I build <b>intelligent, reliable, and AI-driven software solutions</b> for real-world problems. Based in Sri Lanka, working worldwide.</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-gajaananth.vercel.app-0b1220?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e293b)](https://gajaananth.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0b1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=1e293b)](https://www.linkedin.com/in/gajaananth/)
+[![GitHub](https://img.shields.io/badge/GitHub-Gajaananth-0b1220?style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b)](https://github.com/Gajaananth)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-0b1220?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=1e293b)](mailto:YOUR_EMAIL@example.com)
 
-<!-- Call to Action Buttons -->
-[![Portfolio](https://img.shields.io/badge/🌐_View_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gajaananth.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&lines=AI-driven+software+for+real+business+needs;Web+apps+%C2%B7+Mobile+apps+%C2%B7+Backends+%C2%B7+AI+workflows;Finance+%C2%B7+Hospitality+%C2%B7+Education+%C2%B7+Enterprise" alt="Typing animation" />
 
-</div>
-
----
-
-### 🚀 What I'm Doing
-*   💼 **Freelance AI & Full Stack Developer**: Building web apps, mobile apps, backend systems, and AI workflows.
-*   🎓 **BIT (R) Undergraduate** at the University of Moratuwa.
-*   🏗️ **Currently building**: High-impact solutions for finance, hospitality, education, and enterprise.
-
-### 🧰 The Stack Behind My Work
-<div align="center">
-  
-  <!-- Frontend -->
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-  <!-- Backend & AI -->
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-  <!-- Database & Hosting -->
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 </div>
 
 <br/>
 
-### 🏆 Featured Projects
-*Check out my pinned repos below, but here is a quick look at what I build:*
+<img src="./assets/divider.svg" width="100%" alt="" />
 
+## About
+
+I'm a **freelance AI and full-stack developer** and a **BIT (R) undergraduate at the University of Moratuwa**. I design and ship production software: web apps, mobile apps, backend systems and AI workflows, for clients in **finance, hospitality, education and enterprise**.
+
+| | |
+|---|---|
+| **Focus** | AI-powered products, intelligent web systems, reliable backends |
+| **Approach** | Real problems first, clean architecture, software that runs in production |
+| **Location** | Sri Lanka, working worldwide |
+| **Status** | Open to freelance projects and collaboration |
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## Featured Projects
+
+<div align="center">
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🚨 Selva NaDhanam</h3>
-      <p align="center">Disaster-resilient SOS app built with Flutter + Django. Features a 10-layer fail-safe communication system for when connectivity is unreliable.</p>
-      <p align="center"><code>Flutter</code> <code>Django</code> <code>Python</code></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">💼 GVC Agro</h3>
-      <p align="center">A full-stack finance platform for managing loans, savings, customers, and branches. Production software built for real business operations.</p>
-      <p align="center"><code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>PostgreSQL</code></p>
-    </td>
+    <td><a href="https://gajaananth.vercel.app/"><img src="./assets/card-selva.svg" width="480" alt="Selva NaDhanam" /></a></td>
+    <td><a href="https://gajaananth.vercel.app/"><img src="./assets/card-gvc.svg" width="480" alt="GVC Agro" /></a></td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">🤖 Karuppu</h3>
-      <p align="center">An AI-powered workspace for managing tasks and automating repetitive workflows, reducing manual busywork.</p>
-      <p align="center"><code>React</code> <code>TypeScript</code> <code>AI</code></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🏨 Treatooo Hotels</h3>
-      <p align="center">Web platform for hotel groups with multiple properties, featuring a consistent brand presence and booking flow.</p>
-      <p align="center"><code>React</code> <code>Django</code></p>
-    </td>
+    <td><a href="https://gajaananth.vercel.app/"><img src="./assets/card-karuppu.svg" width="480" alt="Karuppu" /></a></td>
+    <td><a href="https://gajaananth.vercel.app/"><img src="./assets/card-treatooo.svg" width="480" alt="Treatooo Hotels" /></a></td>
   </tr>
 </table>
+</div>
 
-<br/>
+<div align="center"><sub>Full case studies, screenshots and live demos on my <a href="https://gajaananth.vercel.app/">portfolio</a>.</sub></div>
 
-### 📊 GitHub Analytics
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## Tech Stack
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gajaananth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Gajaananth's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gajaananth&theme=tokyonight&hide_border=true&background=0D1117" alt="Gajaananth's Streak" width="48%" />
+
+**Frontend and Mobile**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,flutter,dart,html,css&theme=dark" alt="Frontend" />
+
+**Backend and AI**<br/>
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express&theme=dark" alt="Backend" />
+
+**Data, Cloud and Tooling**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,git,github,vercel,linux&theme=dark" alt="Tooling" />
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## What I Build
+
+| Layer | What it covers |
+|:--|:--|
+| **AI and Automation** | AI-assisted workspaces, workflow automation, LLM-powered features |
+| **Web Platforms** | Dashboards, finance and booking systems, multi-branch business apps |
+| **Mobile** | Cross-platform apps with Flutter, built for unreliable-connectivity scenarios |
+| **Backend and APIs** | Django, FastAPI and Node.js services on PostgreSQL |
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## GitHub Analytics
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Gajaananth&show_icons=true&theme=transparent&title_color=38BDF8&icon_color=A78BFA&text_color=CBD5E1&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gajaananth&layout=compact&theme=transparent&title_color=38BDF8&text_color=CBD5E1&hide_border=true" alt="Top languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Gajaananth&theme=transparent&hide_border=true&ring=A78BFA&fire=F87171&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <i>Let's build something meaningful. Reach out via my portfolio!</i>
+  <img src="./assets/footer.svg" width="100%" alt="Let's build something meaningful" />
 </div>
